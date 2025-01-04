@@ -6,7 +6,7 @@ import java.net.URL;
 
 public class CurrencyConverter {
 
-    private static final String API_URL = "https://v6.exchangerate-api.com/v6/ca7989f58f7338909b1af1c5/latest/";
+    private static final String API_URL = "https://v6.exchangerate-api.com/v6/SUA-API-AQUI/latest/";
 
     public double getExchangeRate(String fromCurrency, String toCurrency) {
         try {
